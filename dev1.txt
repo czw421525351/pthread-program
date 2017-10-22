@@ -1,1 +1,1 @@
-C:\Users\chenziwei\Desktop\pthread-program notother
+C:\Users\chenziwei\Desktop\other-pthread-program\pthread-program  other
